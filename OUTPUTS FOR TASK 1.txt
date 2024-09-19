@@ -1,0 +1,25 @@
+OUTPUTS:
+
+Hello World
+<class 'str'>
+<class 'int'>
+HYDERBAD
+8
+Chenni
+6
+hkadal
+False
+5
+Odd
+Welcome to HashInclude
+['dhoni', 'kohil', 'gautam', 'rohit', 'gaikwad']
+['dhoni', 'kohil', 'rohit', 'gaikwad']
+['dhoni', 'gaikwad', 'kohil', 'rohit']
+['dhoni', 'gaikwad', 'kohil']
+NOON
+8
+6
+14
+2
+1.3333333333333333
+48
